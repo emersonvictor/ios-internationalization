@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Internationalizing
+
+  Created by Emerson Victor on 13/02/20.
+  Copyright © 2020 emer. All rights reserved.
+*/
+
+"Title in english" = "Title";
+"Subtitle in english" = "Subtitle";
